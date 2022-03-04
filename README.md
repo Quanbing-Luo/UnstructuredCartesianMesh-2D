@@ -1,10 +1,10 @@
 # UnstructuredCartesianMesh-2D
- This repository includes the source codes and manuscript for the paper: 
+ This repository includes the source code for the paper: 
 -  **Quanbing Luo**, Automatic unstructured Cartesian mesh generation method and its application for diffusion problems with finite volume method, Submitted to Journal. 
 
 <!-- [Engineering with Computers](https://doi.org/10.1007/s00366-020-01262-x), 2021 (Published Online) -->
 
-The source codes were divided to two parts: (1) Unstructured Cartesian Mesh and (2) Poisson Equation on Unit Disk. 
+The source code is divided to two parts: (1) Unstructured Cartesian Mesh and (2) Poisson Equation on Unit Disk. 
 
 ## Unstructured Cartesian Mesh
 
